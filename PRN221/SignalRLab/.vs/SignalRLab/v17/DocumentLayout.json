@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nghia\\Downloads\\SignalRLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C038DD60-EEF5-416B-AFBB-6387777F5423}|SignalRLab\\SignalRLab.csproj|c:\\users\\nghia\\downloads\\signalrlab\\signalrlab\\migrations\\20240325042107_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C038DD60-EEF5-416B-AFBB-6387777F5423}|SignalRLab\\SignalRLab.csproj|solutionrelative:signalrlab\\migrations\\20240325042107_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C038DD60-EEF5-416B-AFBB-6387777F5423}|SignalRLab\\SignalRLab.csproj|c:\\users\\nghia\\downloads\\signalrlab\\signalrlab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C038DD60-EEF5-416B-AFBB-6387777F5423}|SignalRLab\\SignalRLab.csproj|solutionrelative:signalrlab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240325042107_test.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\Downloads\\SignalRLab\\SignalRLab\\Migrations\\20240325042107_test.cs",
+              "RelativeDocumentMoniker": "SignalRLab\\Migrations\\20240325042107_test.cs",
+              "ToolTip": "C:\\Users\\nghia\\Downloads\\SignalRLab\\SignalRLab\\Migrations\\20240325042107_test.cs",
+              "RelativeToolTip": "SignalRLab\\Migrations\\20240325042107_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T04:21:08.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nghia\\Downloads\\SignalRLab\\SignalRLab\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalRLab\\appsettings.json",
+              "ToolTip": "C:\\Users\\nghia\\Downloads\\SignalRLab\\SignalRLab\\appsettings.json",
+              "RelativeToolTip": "SignalRLab\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T04:20:17.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

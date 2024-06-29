@@ -1,0 +1,54 @@
+﻿@page
+@model UpdateEyeglassModel
+
+<h2>Update Eyeglass</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Input.EyeglassesId" />
+
+    <div class="form-group">
+        <label asp-for="Input.EyeglassesName">Eyeglasses Name</label>
+        <input asp-for="Input.EyeglassesName" class="form-control" />
+        <span asp-validation-for="Input.EyeglassesName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Input.EyeglassesDescription">Description</label>
+        <textarea asp-for="Input.EyeglassesDescription" rows="3" class="form-control"></textarea>
+        <span asp-validation-for="Input.EyeglassesDescription" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Input.FrameColor">Frame Color</label>
+        <input asp-for="Input.FrameColor" class="form-control" />
+        <span asp-validation-for="Input.FrameColor" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Input.Price">Price</label>
+        <input asp-for="Input.Price" type="number" step="0.01" class="form-control" />
+        <span asp-validation-for="Input.Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Input.Quantity">Quantity</label>
+        <input asp-for="Input.Quantity" type="number" class="form-control" />
+        <span asp-validation-for="Input.Quantity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Input.LensTypeId">Lens Type</label>
+        <select asp-for="Input.LensTypeId" asp-items="@Model.LensTypeOptions" class="form-control">
+            <option value="">Please select</option>
+        </select>
+        <span asp-validation-for="Input.LensTypeId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

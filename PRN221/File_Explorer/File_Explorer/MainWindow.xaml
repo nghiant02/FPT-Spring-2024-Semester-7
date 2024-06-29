@@ -1,0 +1,40 @@
+﻿<Window x:Class="File_Explorer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:File_Explorer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Folder Name" HorizontalAlignment="Left" Margin="169,123,0,0" VerticalAlignment="Top" Height="42" Width="130" FontSize="18" FontWeight="Bold"/>
+        <TextBox x:Name="txtfolderPath" HorizontalAlignment="Center" Margin="0,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="192" Height="30"/>
+        <Button x:Name="btnBrowseFiles" Content="Browse Files" HorizontalAlignment="Center" Margin="0,176,0,0" VerticalAlignment="Top" FontSize="16" Click="btnBrowseFiles_Click"/>
+        <ListView x:Name="listView" Margin="0,217,0,0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Type" Width="50">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Icon}" Width="16" Height="16"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="200"/>
+                    <GridViewColumn Header="Path" DisplayMemberBinding="{Binding Path}" Width="400"/>
+                </GridView>
+            </ListView.View>
+            <ListView.Resources>
+                <ContextMenu x:Key="ItemContextMenu">
+                    <MenuItem Header="Rename" Click="Rename_Click"/>
+                    <MenuItem Header="Delete" Click="DeleteBtn_Click"/>
+                </ContextMenu>
+            </ListView.Resources>
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="ContextMenu" Value="{StaticResource ItemContextMenu}" />
+                </Style>
+            </ListView.ItemContainerStyle>
+        </ListView>
+    </Grid>
+</Window>

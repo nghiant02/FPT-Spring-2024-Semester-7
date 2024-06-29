@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Eyeglasses_StudentName
+build_property.RootNamespace = Eyeglasses_StudentName
+build_property.ProjectDir = C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Eyeglasses_StudentName\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Eyeglasses_StudentName
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/AddEyeglass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRXllZ2xhc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/EyeglassesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXllZ2xhc3Nlc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/UpdateEyeglass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlRXllZ2xhc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nghia/OneDrive/Documents/FPT Spring 2024 Semester 7/PRN221/PRN221PE_SP24_TrialTest_StudentName/Eyeglasses_StudentName/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-70qya4rdje

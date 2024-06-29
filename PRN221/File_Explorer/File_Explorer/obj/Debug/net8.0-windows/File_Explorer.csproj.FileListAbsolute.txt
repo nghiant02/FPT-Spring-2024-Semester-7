@@ -1,0 +1,40 @@
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.exe
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.deps.json
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.runtimeconfig.json
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.dll
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.pdb
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer_MarkupCompile.cache
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer_MarkupCompile.lref
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.g.resources
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.AssemblyInfoInputs.cache
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.AssemblyInfo.cs
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.csproj.CoreCompileInputs.cache
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.dll
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\refint\File_Explorer.dll
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.pdb
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.genruntimeconfig.cache
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\ref\File_Explorer.dll
+C:\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.exe
+C:\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.deps.json
+C:\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.runtimeconfig.json
+C:\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.dll
+C:\PRN221\File_Explorer\File_Explorer\bin\Debug\net8.0-windows\File_Explorer.pdb
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\App.g.cs
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer_MarkupCompile.cache
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer_MarkupCompile.lref
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.g.resources
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.AssemblyInfoInputs.cache
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.AssemblyInfo.cs
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.csproj.CoreCompileInputs.cache
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.dll
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\refint\File_Explorer.dll
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.pdb
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\File_Explorer.genruntimeconfig.cache
+C:\PRN221\File_Explorer\File_Explorer\obj\Debug\net8.0-windows\ref\File_Explorer.dll

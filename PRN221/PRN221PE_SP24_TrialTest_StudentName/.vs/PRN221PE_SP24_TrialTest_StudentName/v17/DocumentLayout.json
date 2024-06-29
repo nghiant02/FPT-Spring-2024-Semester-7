@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|c:\\users\\nghia\\onedrive\\documents\\fpt spring 2024 semester 7\\prn221\\prn221pe_sp24_trialtest_studentname\\eyeglasses_studentname\\pages\\eyeglasseslist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|solutionrelative:eyeglasses_studentname\\pages\\eyeglasseslist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|c:\\users\\nghia\\onedrive\\documents\\fpt spring 2024 semester 7\\prn221\\prn221pe_sp24_trialtest_studentname\\eyeglasses_studentname\\pages\\eyeglasseslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|solutionrelative:eyeglasses_studentname\\pages\\eyeglasseslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|c:\\users\\nghia\\onedrive\\documents\\fpt spring 2024 semester 7\\prn221\\prn221pe_sp24_trialtest_studentname\\eyeglasses_studentname\\pages\\updateeyeglass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|solutionrelative:eyeglasses_studentname\\pages\\updateeyeglass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|c:\\users\\nghia\\onedrive\\documents\\fpt spring 2024 semester 7\\prn221\\prn221pe_sp24_trialtest_studentname\\eyeglasses_studentname\\pages\\updateeyeglass.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|solutionrelative:eyeglasses_studentname\\pages\\updateeyeglass.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|c:\\users\\nghia\\onedrive\\documents\\fpt spring 2024 semester 7\\prn221\\prn221pe_sp24_trialtest_studentname\\eyeglasses_studentname\\pages\\addeyeglass.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|solutionrelative:eyeglasses_studentname\\pages\\addeyeglass.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|c:\\users\\nghia\\onedrive\\documents\\fpt spring 2024 semester 7\\prn221\\prn221pe_sp24_trialtest_studentname\\eyeglasses_studentname\\pages\\addeyeglass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77485F15-DAB0-433C-8107-3B59FF92406A}|Eyeglasses_StudentName\\Eyeglasses_StudentName.csproj|solutionrelative:eyeglasses_studentname\\pages\\addeyeglass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EyeglassesList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\EyeglassesList.cshtml.cs",
+              "RelativeDocumentMoniker": "Eyeglasses_StudentName\\Pages\\EyeglassesList.cshtml.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\EyeglassesList.cshtml.cs",
+              "RelativeToolTip": "Eyeglasses_StudentName\\Pages\\EyeglassesList.cshtml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA8wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T01:19:49.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EyeglassesList.cshtml",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\EyeglassesList.cshtml",
+              "RelativeDocumentMoniker": "Eyeglasses_StudentName\\Pages\\EyeglassesList.cshtml",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\EyeglassesList.cshtml",
+              "RelativeToolTip": "Eyeglasses_StudentName\\Pages\\EyeglassesList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T01:19:45.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEyeglass.cshtml",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\UpdateEyeglass.cshtml",
+              "RelativeDocumentMoniker": "Eyeglasses_StudentName\\Pages\\UpdateEyeglass.cshtml",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\UpdateEyeglass.cshtml",
+              "RelativeToolTip": "Eyeglasses_StudentName\\Pages\\UpdateEyeglass.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T01:05:45.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateEyeglass.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\UpdateEyeglass.cshtml.cs",
+              "RelativeDocumentMoniker": "Eyeglasses_StudentName\\Pages\\UpdateEyeglass.cshtml.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\UpdateEyeglass.cshtml.cs",
+              "RelativeToolTip": "Eyeglasses_StudentName\\Pages\\UpdateEyeglass.cshtml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwEUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T01:05:45.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEyeglass.cshtml",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\AddEyeglass.cshtml",
+              "RelativeDocumentMoniker": "Eyeglasses_StudentName\\Pages\\AddEyeglass.cshtml",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\AddEyeglass.cshtml",
+              "RelativeToolTip": "Eyeglasses_StudentName\\Pages\\AddEyeglass.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T00:55:10.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEyeglass.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\AddEyeglass.cshtml.cs",
+              "RelativeDocumentMoniker": "Eyeglasses_StudentName\\Pages\\AddEyeglass.cshtml.cs",
+              "ToolTip": "C:\\Users\\nghia\\OneDrive\\Documents\\FPT Spring 2024 Semester 7\\PRN221\\PRN221PE_SP24_TrialTest_StudentName\\Eyeglasses_StudentName\\Pages\\AddEyeglass.cshtml.cs",
+              "RelativeToolTip": "Eyeglasses_StudentName\\Pages\\AddEyeglass.cshtml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T00:55:07.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

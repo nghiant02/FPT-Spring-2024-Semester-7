@@ -1,0 +1,73 @@
+﻿@page
+@model EyeglassesListModel
+
+<!-- Check if the user is an admin to show specific admin functionalities -->
+@if (Model.CanEdit)
+{
+    <h2>Eyeglasses List</h2>
+
+    <!-- Search Form: Visible only to admins for searching eyeglasses -->
+    <form method="get" class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" name="SearchTerm" value="@Model.SearchTerm">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+
+    <!-- Add New Eyeglass Button: Allows admins to navigate to the Add Eyeglass page -->
+    <a href="/AddEyeglass" class="btn btn-primary">Add New Eyeglass</a>
+}
+
+<!-- Eyeglasses Table: Displays eyeglasses data for both admins and staff -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Frame Color</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Created Date</th>
+            <th>Lens Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var eyeglass in Model.Eyeglasses)
+        {
+            <tr>
+                <td>@eyeglass.EyeglassesId</td>
+                <td>@eyeglass.EyeglassesName</td>
+                <td>@eyeglass.EyeglassesDescription</td>
+                <td>@eyeglass.FrameColor</td>
+                <td>@eyeglass.Price</td>
+                <td>@eyeglass.Quantity</td>
+                <td>@eyeglass.CreatedDate?.ToString("dd/MM/yyyy")</td>
+                <td>@eyeglass.LensType?.LensTypeName</td>
+                @if (Model.CanEdit)
+                {
+                    <!-- Update and Delete Actions: Only available to admins -->
+                    <td>
+                        <!-- Update button -->
+                        <a asp-page="/UpdateEyeglass" asp-route-id="@eyeglass.EyeglassesId" class="btn btn-sm btn-warning">Update</a>
+                        <!-- Delete button -->
+                        <form method="post" asp-page-handler="Delete" style="display:inline;">
+                            <input type="hidden" name="id" value="@eyeglass.EyeglassesId" />
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this?');">Delete</button>
+                        </form>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Pagination: Allows users to navigate between pages of eyeglasses -->
+<nav>
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                <a class="page-link" href="?currentPage=@i&SearchTerm=@Model.SearchTerm">@i</a>
+            </li>
+        }
+    </ul>
+</nav>

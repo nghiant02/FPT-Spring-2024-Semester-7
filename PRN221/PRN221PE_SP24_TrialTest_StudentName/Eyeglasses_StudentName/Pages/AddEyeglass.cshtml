@@ -1,0 +1,56 @@
+﻿@page
+@model AddEyeglassModel
+
+@{
+    ViewData["Title"] = "Add New Eyeglass";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post" class="mt-4">
+    <div class="form-group">
+        <label asp-for="NewEyeglass.EyeglassesName">Eyeglasses Name</label>
+        <input asp-for="NewEyeglass.EyeglassesName" class="form-control" placeholder="Enter eyeglasses name" />
+        <span asp-validation-for="NewEyeglass.EyeglassesName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NewEyeglass.EyeglassesDescription">Description</label>
+        <textarea asp-for="NewEyeglass.EyeglassesDescription" rows="3" class="form-control" placeholder="Enter a description"></textarea>
+        <span asp-validation-for="NewEyeglass.EyeglassesDescription" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NewEyeglass.FrameColor">Frame Color</label>
+        <input asp-for="NewEyeglass.FrameColor" class="form-control" placeholder="e.g., Black, Blue, Red" />
+        <span asp-validation-for="NewEyeglass.FrameColor" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NewEyeglass.Price">Price ($)</label>
+        <input asp-for="NewEyeglass.Price" type="number" step="0.01" class="form-control" placeholder="Enter price" />
+        <span asp-validation-for="NewEyeglass.Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NewEyeglass.Quantity">Quantity</label>
+        <input asp-for="NewEyeglass.Quantity" type="number" class="form-control" placeholder="Enter quantity" />
+        <span asp-validation-for="NewEyeglass.Quantity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NewEyeglass.LensTypeId">Lens Type</label>
+        <select asp-for="NewEyeglass.LensTypeId" asp-items="@Model.LensTypeOptions" class="form-control">
+            <option value="">Select a lens type</option>
+        </select>
+        <span asp-validation-for="NewEyeglass.LensTypeId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Eyeglass</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

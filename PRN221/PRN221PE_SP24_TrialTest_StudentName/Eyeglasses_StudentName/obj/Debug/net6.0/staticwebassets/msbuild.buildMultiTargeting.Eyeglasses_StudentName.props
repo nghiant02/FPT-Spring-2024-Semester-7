@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Eyeglasses_StudentName.props" />
+</Project>

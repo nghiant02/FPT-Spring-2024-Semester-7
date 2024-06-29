@@ -1,0 +1,14 @@
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\Users\nghia\OneDrive\Documents\FPT Spring 2024 Semester 7\PRN221\PRN221PE_SP24_TrialTest_StudentName\Repository\obj\Debug\net6.0\ref\Repository.dll

@@ -1,0 +1,25 @@
+﻿<Window x:Class="BMI_Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BMI_Calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Weight (kg):"/>
+            <TextBox x:Name="txtWeight" Margin="0,0,0,10"/>
+            <TextBlock Text="Height (m):"/>
+            <TextBox x:Name="txtHeight" Margin="0,0,0,10"/>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Button Content="Calculate BMI" Click="CalculateBMI_Click" HorizontalAlignment="Left" Margin="0,0,10,0"/>
+                <Button Content="Clear" Click="Clear_Click"/>
+            </StackPanel>
+            <TextBlock Text="BMI:"/>
+            <TextBox x:Name="txtBMI" IsReadOnly="True" Margin="0,0,0,10"/>
+            <TextBlock Text="Status:"/>
+            <TextBox x:Name="txtStatus" IsReadOnly="True" Margin="0,0,0,10"/>
+        </StackPanel>
+    </Grid>
+</Window>
